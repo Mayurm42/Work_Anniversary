@@ -1,16 +1,18 @@
-# README — Work Anniversary Wall
+Built using M365 Copilot Cowork as part of Vibecoding Excercise
 
-A shared online celebration board for any colleague's work anniversary. Single self-contained web app — team members sign in, post tributes, and react in real time. Everyone sees the same live wall from any device or browser.
+# README â€” Work Anniversary Wall
+
+A shared online celebration board for any colleague's work anniversary. Single self-contained web app â€” team members sign in, post tributes, and react in real time. Everyone sees the same live wall from any device or browser.
 
 ---
 
 ## Features
-- **Tributes** — text messages with optional photos, image links, GIFs, and celebration effects
-- **Reactions** — ?? Cheers · ?? Bravo · ?? Grateful · ?? Celebrate
-- **Shared storage** — all posts sync online so every user/device sees the same wall
-- **Board effects** — floating Balloons / Confetti / Hearts / Sparkles / Petals (per-user choice)
-- **Editable banner** — customize the honoree's name, years, and tagline (admin-gated)
-- **Admin tools** — PIN reset, delete old posts, full backup export/import
+- **Tributes** â€” text messages with optional photos, image links, GIFs, and celebration effects
+- **Reactions** â€” ?? Cheers Â· ?? Bravo Â· ?? Grateful Â· ?? Celebrate
+- **Shared storage** â€” all posts sync online so every user/device sees the same wall
+- **Board effects** â€” floating Balloons / Confetti / Hearts / Sparkles / Petals (per-user choice)
+- **Editable banner** â€” customize the honoree's name, years, and tagline (admin-gated)
+- **Admin tools** â€” PIN reset, delete old posts, full backup export/import
 
 ---
 
@@ -33,11 +35,11 @@ A shared online celebration board for any colleague's work anniversary. Single s
 > ?? **Change the default passcode** before sharing the wall widely. The passcode syncs to all devices, so update it once from the admin panel.
 
 ### Admin tools
-- **Edit banner** — change honoree name, font, number of years, and tagline
-- **Reset a colleague's PIN** — for anyone locked out who can't self-recover
-- **Delete old posts** — bulk-remove posts older than *N* days
-- **Export backup** — download the full wall as a JSON file
-- **Import backup** — restore the wall from a previously exported JSON file
+- **Edit banner** â€” change honoree name, font, number of years, and tagline
+- **Reset a colleague's PIN** â€” for anyone locked out who can't self-recover
+- **Delete old posts** â€” bulk-remove posts older than *N* days
+- **Export backup** â€” download the full wall as a JSON file
+- **Import backup** â€” restore the wall from a previously exported JSON file
 
 ---
 
